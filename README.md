@@ -51,18 +51,19 @@ API REST CRUD para gestión de productos usando Spring Boot y ResponseEntity con
 - DELETE /api/productos/{id}: Eliminar un producto por ID
 
 ## captura de pantalla de postman con las operaciones CRUD
-GET http://localhost:8080/api/productos
+1. GET http://localhost:8080/api/productos
 <img width="700" alt="get" src="https://res.cloudinary.com/dindlmikf/image/upload/v1776579912/Captura_de_pantalla_2026-04-19_012425_jmzozw.png">
 
-POST http://localhost:8080/api/productos
+2. POST http://localhost:8080/api/productos
 <img width="700" alt="post" src="https://res.cloudinary.com/dindlmikf/image/upload/v1776580331/Captura_de_pantalla_2026-04-19_012908_frt9sm.png">
 
-PUT http://localhost:8080/api/productos/3
+3. PUT http://localhost:8080/api/productos/3
 <img width="700" alt="put" src="https://res.cloudinary.com/dindlmikf/image/upload/v1776580331/Captura_de_pantalla_2026-04-19_013104_gp4jan.png">
-DELETE http://localhost:8080/api/productos/3
+
+4. DELETE http://localhost:8080/api/productos/3
 <img width="700" alt="delete" src="https://res.cloudinary.com/dindlmikf/image/upload/v1776580651/Captura_de_pantalla_2026-04-19_013703_x2owws.png">
 <img width="700" alt="delete" src="https://res.cloudinary.com/dindlmikf/image/upload/v1776580331/Captura_de_pantalla_2026-04-19_013141_lrvzu6.png">
 
-GET http://localhost:8080/api/productos/999
+5. GET http://localhost:8080/api/productos/999
 <img width="700" alt="get error" src="https://res.cloudinary.com/dindlmikf/image/upload/v1776580332/Captura_de_pantalla_2026-04-19_013151_tbf00f.png">
 
