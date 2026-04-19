@@ -60,7 +60,7 @@ POST http://localhost:8080/api/productos
 PUT http://localhost:8080/api/productos/3
 <img width="700" alt="put" src="https://res.cloudinary.com/dindlmikf/image/upload/v1776580331/Captura_de_pantalla_2026-04-19_013104_gp4jan.png">
 DELETE http://localhost:8080/api/productos/3
-<img width="700" alt="delete" src="https://res.cloudinary.com/dindlmikf/image/upload/v1776580331/Captura_de_pantalla_2026-04-19_013117_tcq9s3.png">
+<img width="700" alt="delete" src="https://res.cloudinary.com/dindlmikf/image/upload/v1776580651/Captura_de_pantalla_2026-04-19_013703_x2owws.png">
 <img width="700" alt="delete" src="https://res.cloudinary.com/dindlmikf/image/upload/v1776580331/Captura_de_pantalla_2026-04-19_013141_lrvzu6.png">
 
 GET http://localhost:8080/api/productos/999
